@@ -1,0 +1,1 @@
+insert into T_POST (NAME, NAME) values ('123456789', 'Keri Lee');
